@@ -9,3 +9,4 @@ I'm not a programmer!
 I'm a dev tester!
 
 Add shop
+Add first and second goods
