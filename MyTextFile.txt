@@ -1,1 +1,5 @@
 Svetik text file
+
+Hello world!
+It's me!
+I'm a programmer!
