@@ -7,3 +7,5 @@ It's me!
 
 I'm not a programmer!
 I'm a dev tester!
+
+Add shop
